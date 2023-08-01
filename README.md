@@ -84,7 +84,7 @@ Note: This field also includes non-numeric values such as 'Pass', where 'Pass' m
 
 Exploratory Analysis Questions
 
-1, Which establishments have a hygiene score equal to 20?
+1. Which establishments have a hygiene score equal to 20?
 
 2. Which establishments in London have a RatingValue greater than or equal to 4?
 Hint: The London Local Authority has a longer name than "London" so you will need to use $regex as part of your search.
